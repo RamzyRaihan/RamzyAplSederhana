@@ -1,0 +1,2 @@
+# RamzyAplSederhana
+Aplikasi Android Sederhana
